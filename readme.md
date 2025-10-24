@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: Wilson Oswaldo Mites Montalvo
+- **Carrera**: Desarrollo de Software PUCETEC
+- **Fecha de entrega**: 24 de Octubre de 2025
 
 ---
 
